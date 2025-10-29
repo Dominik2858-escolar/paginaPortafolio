@@ -1,2 +1,2 @@
 # paginaPortafolio
-pagina
+pagina para mostrar informacion
